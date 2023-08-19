@@ -29,7 +29,7 @@ public class Task6 {
                 System.out.println(meters + " meters in yards: " + yards);
                 break;
             default:
-                System.out.println("Selected action dose not exist!");
+                System.out.println("Selected action does not exist!");
         }
     }
 }
